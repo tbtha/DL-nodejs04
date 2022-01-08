@@ -1,0 +1,13 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+h1, h3, button{
+    color:white
+}
+
+button{
+    border-radius: 20%;
+    background: #000;
+}

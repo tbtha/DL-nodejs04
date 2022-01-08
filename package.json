@@ -1,0 +1,17 @@
+{
+  "name": "dl-nodejs04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acceso.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "yargs": "^17.3.1"
+  }
+}
